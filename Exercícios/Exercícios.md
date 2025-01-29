@@ -1,3 +1,4 @@
+Acertei 8 e errei 2
 ##### **Questão número 1**
 Sua empresa planeja migrar todos os seus recursos de rede para o Azure. Você precisa iniciar o processo de planejamento explorando o Azure. O que você deve criar primeiro?
 
@@ -129,3 +130,84 @@ Uma organização que hospeda sua infraestrutura em uma nuvem privada pode desat
 > D. Em nuvem privada
 
 Resposta: C
+
+---
+
+---
+Acertei 5 e errei 1
+##### **Questão número 11
+Ao planejar migrar um site público para o Azure, você deve:
+
+> A. Se planejar para pagar os custos mensais de uso
+
+> B. Pague para transferir todos os dados do site para o Azure
+
+> C. Implantar uma VPN
+
+> D. Reduzir os número de conexões com o site
+
+Resposta: A
+
+##### **Questão número 12
+Qual serviço fornece computação sem servidor no Azure?
+
+> A. Máquinas Virtuais do Azure
+
+> B. Funções do Azure
+
+> C. Conta de armazenamento do Azure
+
+> D. Hosts dedicados do Azure
+
+Resposta: B
+
+##### **Questão número 13
+Sua empresa planeja migrar para o Azure. A empresa tem vários departamentos. Todos os recursos do Azure usados por cada departamento serão gerenciados por um administrador de departamento. Quais são as duas técnicas possíveis para segmentar o Azure para os departamentos?
+
+> A. Várias assinaturas
+> B. Vários diretórios do Azure Active Directory (AZURE AD)
+> C. Várias regiões
+> D. Vários grupos de recursos
+
+Resposta: A e D
+
+##### **Questão número 14
+Você tem um aplicativo Web do Azure. Você precisa gerenciar as configurações do aplicativo da web a partir de um Iphone. Quais são as duas ferramentas de gerenciamento do Azure que você pode usar?
+
+> A. Explorador de Armazenamento do Azure
+
+> B. CLI do Azure
+
+> C. Azure Cloud Shell
+
+> D. O portal do Azure
+
+> E. Windows Power Shell
+
+Resposta: C e D
+
+##### **Questão número 15
+Você precisa identificar o tipo de falha para o qual uma zona de disponibilidade do Azure pode ser usada para proteger o acesso aos serviços do Azure. O que você deve identificar?
+
+> A. Uma falha na região do Azure
+
+> B. Uma falha do data center do Azure
+
+> C. Uma falha de armazenamento
+
+> D. Uma falha do servidor físico
+
+Resposta: B
+
+##### **Questão número 16
+Quando você precisa delegar permissões para várias máquinas virtuais do Azure simultaneamente, você deve implantar:
+
+> A. Para o mesmo grupo de recursos
+
+> B. Usando o mesmo modelo do Azure Resource Manager
+
+> C. Para a mesma zona de disponibilidade
+
+> D. Máquinas virtuais do Azure para a mesma região do Azure
+
+Resposta: A
