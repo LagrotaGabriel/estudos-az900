@@ -1,4 +1,4 @@
-Acertei 8 e errei 2
+
 ##### **Questão número 1**
 Sua empresa planeja migrar todos os seus recursos de rede para o Azure. Você precisa iniciar o processo de planejamento explorando o Azure. O que você deve criar primeiro?
 
@@ -209,5 +209,84 @@ Quando você precisa delegar permissões para várias máquinas virtuais do Azur
 > C. Para a mesma zona de disponibilidade
 
 > D. Máquinas virtuais do Azure para a mesma região do Azure
+
+Resposta: A
+##### **Questão número 17
+Você planeja migrar um aplicativo Web para o Azure. A aplicação web é acessada por usuários externos. Você precisa recomendar uma solução de implantação em nuvem para minimizar a quantidade de esforço administrativo usado para gerenciar o aplicativo da web. O que você deveria incluir na recomendação?
+
+> A. Software como serviço (SaaS)
+
+> B. Plataforma como serviço (PaaS)
+
+> C. Database as a service (DaaS)
+
+> D. Infraestrutura como serviço (IaaS)
+
+Resposta: B
+
+##### **Questão número 18
+Sua empresa planeja implantar uma solução da IA no Azure. O que a empresa deve usar para criar, testar e implantar soluções de análise preditiva?
+
+> A. Azure Machine Learning Studio
+
+> B. Azure Cosmos DB
+
+> C. Azure Logic Apps
+
+> D. Azure Batch
+
+Resposta: A
+
+##### **Questão número 18
+Um engenheiro de suporte planeja realizar várias tarefas de gerenciamento do Azure usando a CLI do Azure. Você instala a CLI em um computador. Você precisa informar ao engenheiro de suporte quais ferramentas usar para executar a CLI. Quais são as duas ferramentas que você deve instruir o engenheiro de suporte a usar? Cada resposta correta apresenta uma solução completa
+
+> A. Central de Rede e Compartilhamento
+
+> B. Explorador de Recursos do Azure
+
+> C. Windows PowerShell
+
+> D. Prompt de comando
+
+> E. Firewall do Windows Defender
+
+Resposta: C e D
+
+##### **Questão número 19
+Uma equipe de desenvolvedores de sua empresa planeja implantar e remover 50 máquinas virtuais personalizadas a cada semana. Trinta das máquinas virtuais executam o Windows Server 2016 e 20 das máquinas virtuais executam o Ubuntu Linux. Você precisa recomendar qual serviço do Azure minimizará o esforço administrativo necessário para implantar e remover as máquinas virtuais. O que você deve recomendar?
+
+> A. Área de trabalho gerenciada da Microsoft
+
+> B. Conjuntos de dimensionamento de máquinas virtuais do Azure
+
+> C. Instâncias e máquinas virtuais reservadas do Azure (VM)
+
+> D. Laboratórios Azure DevTest
+
+Resposta: D
+
+##### **Questão número 20
+Você planeja mapear uma unidade de rede de vários computadores que executam o Windows 10 para o Armazenamento do Azure. Você precisa criar uma solução de armazenamento no Azure para a unidade mapeada planejada. O que você deve criar?
+
+> A. Um serviço de arquivos em uma conta de armazenamento
+
+> B. Um banco de dados SQL do Azure
+
+> C. Um disco de dados de máquina virtual
+
+> D. Um serviço Blobs em uma conta de armazenamento
+
+Resposta: A
+
+##### **Questão número 21
+Você tem um aplicativo local que envia notificações por e-mail automaticamente com base em uma regra. Você planeja migrar o aplicativo para o Azure. Você precisa recomendar uma solução de computação sem servidor para o aplicativo. O que você deveria incluir na recomendação?
+
+> A. Um aplicativo lógico
+
+> B. Um aplicativo de API
+
+> C. Um Web App
+
+> D. Uma imagem de servidor no Azure Marketplace
 
 Resposta: A
